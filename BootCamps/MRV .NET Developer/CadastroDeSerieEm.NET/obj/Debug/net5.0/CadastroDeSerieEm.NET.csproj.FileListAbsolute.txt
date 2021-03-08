@@ -1,0 +1,16 @@
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\obj\Debug\net5.0\CadastroDeSerieEm.NET.csprojAssemblyReference.cache
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\obj\Debug\net5.0\CadastroDeSerieEm.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\obj\Debug\net5.0\CadastroDeSerieEm.NET.AssemblyInfoInputs.cache
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\obj\Debug\net5.0\CadastroDeSerieEm.NET.AssemblyInfo.cs
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\obj\Debug\net5.0\CadastroDeSerieEm.NET.csproj.CoreCompileInputs.cache
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\bin\Debug\net5.0\CadastroDeSerieEm.NET.exe
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\bin\Debug\net5.0\CadastroDeSerieEm.NET.deps.json
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\bin\Debug\net5.0\CadastroDeSerieEm.NET.runtimeconfig.json
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\bin\Debug\net5.0\CadastroDeSerieEm.NET.runtimeconfig.dev.json
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\bin\Debug\net5.0\CadastroDeSerieEm.NET.dll
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\bin\Debug\net5.0\ref\CadastroDeSerieEm.NET.dll
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\bin\Debug\net5.0\CadastroDeSerieEm.NET.pdb
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\obj\Debug\net5.0\CadastroDeSerieEm.NET.dll
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\obj\Debug\net5.0\ref\CadastroDeSerieEm.NET.dll
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\obj\Debug\net5.0\CadastroDeSerieEm.NET.pdb
+C:\Users\alanc\Documents\GitHub\DigitalInnovationOne\CadastroDeSerieEm.NET\obj\Debug\net5.0\CadastroDeSerieEm.NET.genruntimeconfig.cache

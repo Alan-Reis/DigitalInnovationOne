@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="alanc"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-02-06 12:37:40 "/>
+        <attribute name="created" value="YWxhbmM7REVTS1RPUC0wSDRKNTQyOzIwMjEtMDItMDY7IjEyOjIwOjA5ICI7MjY3Nw=="/>
+        <attribute name="edited" value="YWxhbmM7REVTS1RPUC0wSDRKNTQyOzIwMjEtMDItMDY7IjEyOjM3OjQwICI7NDsyNzkx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome, sobrenome" type="String" array="False" size=""/>
+            <declare name="idade" type="Integer" array="False" size=""/>
+            <output expression="&quot;Qual seu nome?&quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Seja bem vindo &quot; &amp; nome" newline="True"/>
+            <output expression="nome &amp; &quot; digite seu sobrenome&quot;" newline="True"/>
+            <input variable="sobrenome"/>
+            <output expression="&quot;Muito bem &quot; &amp; nome  &amp; &quot; &quot; &amp; sobrenome" newline="True"/>
+            <output expression="&quot;Digite sua idade!&quot;" newline="True"/>
+            <input variable="idade"/>
+            <if expression="idade &gt;= 18">
+                <then>
+                    <output expression="&quot;Continua...&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Voc&#234; n&#227;o pode continuar o cadastro!&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
